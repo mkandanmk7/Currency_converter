@@ -68,6 +68,7 @@ input {
   font-weight: bold;
   margin: 10px 60px;
   cursor: pointer;
+  transition: 0.3s;
 }
 .btn:active {
   transform: translateY(5px);
